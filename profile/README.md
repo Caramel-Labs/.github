@@ -1,2 +1,2 @@
-# .github
-What we are all about at Hamker Club
+# Welcome to Hamker Club
+We are busy these days. Come back later!
