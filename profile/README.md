@@ -1,6 +1,5 @@
 <img src="img/banner.png">
 <h1>Welcome to Hamker Club</h1>
-<img src="img/banner.png">
 We are a smol group of self-taught devs building random fun stuff we enjoy. Our projects are all open source and free to use, but we appreciate it if you credit them back to us.
 <br><br>
 Yes, we still don't have much going on, but that will change soon :)
