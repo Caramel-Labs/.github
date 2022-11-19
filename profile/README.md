@@ -1,4 +1,4 @@
-<img src="/banner.png">
+<img src="img/banner.png">
 <h1>Welcome to Hamker Club</h1>
 We are a smol group of self-taught devs building random fun stuff we enjoy. Our projects are all open source and free to use, but we appreciate it if you credit them back to us.
 <br><br>
