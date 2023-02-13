@@ -1,2 +1,2 @@
 # .github
-What we are all about at Hamker Club
+What we are all about at Caramel Labs
