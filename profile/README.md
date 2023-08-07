@@ -1,4 +1,4 @@
 <h1>Welcome to Caramel Labs!</h1>
-We are a smol group of self-taught devs building random fun stuff we enjoy.
+Caramel Labs is a software development firm based in Sri Lanka. We specialize in full-stack web development and AI/ML applications.
 <br><br>
-You can contact us on <a href="mailto:hamkerclub@gmail.com">hamkerclub@gmail.com</a> anytime.
+You can contact us on <a href="mailto:connectwithcaramel@gmail.com">connectwithcaramel@gmail.com</a> anytime.
