@@ -1,4 +1,4 @@
 <h1>Welcome to Caramel Labs!</h1>
-Caramel Labs is a software development firm based in Sri Lanka. We specialize in full-stack web development and AI/ML applications.
+We are a smol group of undergrad developers and designers working on fun projects.
 <br><br>
-You can contact us on <a href="mailto:connectwithcaramel@gmail.com">connectwithcaramel@gmail.com</a> anytime.
+You can contact us on <a href="mailto:connectwithcaramel@gmail.com">connectwithcaramel@gmail.com</a>.
